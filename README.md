@@ -8,4 +8,4 @@ This is a custom to show Analog Clock.
 
 # Live Project
 
-> Check out the results : [link](http://www.google.fr/ "Link")
+> Check out the results : [link](https://technokrishna.github.io/Analog-Clock-html-css-javascript/ "Link")
